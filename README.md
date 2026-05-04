@@ -108,4 +108,24 @@ Tampilkan **total biaya pendaftaran per pasien**, hanya untuk pasien yang **tota
 
 ---
 
+## 📁 Struktur File yang Dikumpulkan
+
+```
+nama-peserta-tes/
+├── soal1.sql
+├── soal2.sql
+├── soal3.sql
+├── soal4.sql
+├── soal5.sql
+├── soal6.sql
+├── soal7.sql
+├── soal8.sql
+├── soal9.sql
+└── soal10.sql
+```
+
+> ⚠️ **Dikumpulkan dalam bentuk zip | rar | 7z di link ini https://form.jotform.com/261168078056057 **
+
+---
+
 *Dokumen ini dibuat untuk keperluan rekrutmen internal. Dilarang disebarkan tanpa izin.*
